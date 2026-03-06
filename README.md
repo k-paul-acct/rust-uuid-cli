@@ -49,4 +49,4 @@ Lowercase flag letters produce lowercase hex output; uppercase flag letters prod
 
 ### Configuration
 
-1. To show all available options, use the --help flag.
+1. To show all available options, use the `--help` flag.
